@@ -1,0 +1,25 @@
+{
+  "name": "Cv_Form",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "font-awesome": "^4.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirine-benhamed/Cv_Form.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sirine-benhamed/Cv_Form/issues"
+  },
+  "homepage": "https://github.com/sirine-benhamed/Cv_Form#readme"
+}
