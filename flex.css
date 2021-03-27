@@ -1,0 +1,37 @@
+#element1
+{
+  border: 3px rgb(38, 16, 230) solid;
+  width: 65% ;
+ 
+}
+
+#element2
+{
+  border: 3px rgb(83, 14, 116) solid;
+  
+  width: 45%;
+
+}
+#element3
+{
+  border: 3px rgb(247, 232, 29) solid;
+  width: 25%;
+  
+}
+#element4
+{
+  border: 3px rgb(247, 29, 94) solid;
+  width: 25%;
+  
+}
+#element5
+{
+  border: 3px rgb(37, 194, 181) solid;
+  width: 25%;
+  
+}
+#container
+ {
+   display: flex;
+   
+ }
